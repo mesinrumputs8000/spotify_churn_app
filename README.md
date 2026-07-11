@@ -60,14 +60,3 @@ http://localhost:8501
 - Rekomendasi tindakan retensi
 
 ---
-
-## 👥 Kelompok 1 — Data Science Bootcamp Batch 60
-
-| Orang | Tanggung Jawab |
-|---|---|
-| Orang 1 | Data Overview + EDA Univariate + Slide Intro |
-| Orang 2 | Data Handling + EDA Multivariate + Slide EDA |
-| Orang 3 | Preprocessing + Modelling (3 model) + Slide Preprocessing |
-| Orang 4 | Modelling (XGBoost & LightGBM) + Evaluasi + Slide Hasil |
-| Orang 5 | Tuning + Overfitting Check + Slide Tuning & Kesimpulan |
-| Orang 6 | Deployment Streamlit + Slide UI + Koordinasi ZIP |
