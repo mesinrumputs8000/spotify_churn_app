@@ -11,7 +11,7 @@ spotify_churn_app/
 │
 ├── app.py                        ← Entry point utama Streamlit
 ├── ml_app.py                     ← Logika prediksi & UI Machine Learning
-├── pyproject.toml                ← Daftar dependensi
+├── requirements.txt              ← Daftar dependensi
 ├── README.md                     ← Dokumentasi ini
 ├── model_spotify_churn.pkl       ← Model hasil training (dari notebook)
 └── scaler_spotify_churn.pkl      ← StandardScaler hasil training
